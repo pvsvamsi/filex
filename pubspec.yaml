@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   filesize: ^1.0.2
-  flutter_slidable: ^0.5.3
+  flutter_slidable: ^0.5.7
   open_file: ^2.0.3
   path: ^1.6.2
   pedantic: ^1.6.0
